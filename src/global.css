@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --text-small-semi-bold: Roboto;
+  --font-noto-sans-jp: "Noto Sans JP";
+
+  /* font sizes */
+  --text-small-semi-bold-size: 14px;
+  --font-size-2xs: 11px;
+  --text-regular-normal-size: 16px;
+  --font-size-mini: 15px;
+  --heading-h5-size: 24px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --white: #fff;
+  --color-whitesmoke-100: #f3f6f7;
+  --light-grey: #f4f4f4;
+  --color-darkslategray: #444f52;
+  --color-lightslategray: #7a8d93;
+  --color-crimson: #f44d69;
+  --color-lightgray-100: #ced7db;
+  --color-lightgray-200: #cdd7db;
+  --black: #000;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-3xs: 10px;
+  --gap-71xl: 90px;
+  --gap-7xs: 6px;
+  --gap-3xl: 22px;
+  --gap-4xl: 23px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-21xl: 40px;
+  --padding-5xl: 24px;
+  --padding-9xs: 4px;
+  --padding-xs: 12px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-xs: 12px;
+  --br-3xs: 10px;
+}
