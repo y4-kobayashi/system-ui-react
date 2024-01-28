@@ -1,0 +1,26 @@
+.calendarWeekIcon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.div1 {
+  position: relative;
+  line-height: 165%;
+  font-weight: 500;
+}
+.div {
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 219px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-7xs);
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-crimson);
+  font-family: var(--font-noto-sans-jp);
+}
